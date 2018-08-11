@@ -13503,11 +13503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wsurpador\\source\\repos\\UsersApi\\UsersApi\\UsersApi.csproj",
+      "projectUniqueName": "C:\\Users\\wsurpador\\Documents\\Repos\\UsersAPI\\UsersApi\\UsersApi\\UsersApi.csproj",
       "projectName": "UsersApi",
-      "projectPath": "C:\\Users\\wsurpador\\source\\repos\\UsersApi\\UsersApi\\UsersApi.csproj",
+      "projectPath": "C:\\Users\\wsurpador\\Documents\\Repos\\UsersAPI\\UsersApi\\UsersApi\\UsersApi.csproj",
       "packagesPath": "C:\\Users\\wsurpador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wsurpador\\source\\repos\\UsersApi\\UsersApi\\obj\\",
+      "outputPath": "C:\\Users\\wsurpador\\Documents\\Repos\\UsersAPI\\UsersApi\\UsersApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
