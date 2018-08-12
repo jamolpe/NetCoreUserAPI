@@ -9,3 +9,14 @@ C:\Users\wsurpador\source\repos\UsersApi\UsersApi\obj\Debug\netcoreapp2.0\UsersA
 C:\Users\wsurpador\source\repos\UsersApi\UsersApi\bin\Debug\netcoreapp2.0\UsersApi.pdb
 C:\Users\wsurpador\source\repos\UsersApi\UsersApi\obj\Debug\netcoreapp2.0\UsersApi.dll
 C:\Users\wsurpador\source\repos\UsersApi\UsersApi\obj\Debug\netcoreapp2.0\UsersApi.pdb
+C:\Users\wsurpador\Documents\Repos\UsersAPI\UsersApi\UsersApi\bin\Debug\netcoreapp2.0\UsersApi.deps.json
+C:\Users\wsurpador\Documents\Repos\UsersAPI\UsersApi\UsersApi\bin\Debug\netcoreapp2.0\UsersApi.runtimeconfig.json
+C:\Users\wsurpador\Documents\Repos\UsersAPI\UsersApi\UsersApi\bin\Debug\netcoreapp2.0\UsersApi.runtimeconfig.dev.json
+C:\Users\wsurpador\Documents\Repos\UsersAPI\UsersApi\UsersApi\bin\Debug\netcoreapp2.0\UsersApi.dll
+C:\Users\wsurpador\Documents\Repos\UsersAPI\UsersApi\UsersApi\bin\Debug\netcoreapp2.0\UsersApi.pdb
+C:\Users\wsurpador\Documents\Repos\UsersAPI\UsersApi\UsersApi\obj\Debug\netcoreapp2.0\UsersApi.csprojAssemblyReference.cache
+C:\Users\wsurpador\Documents\Repos\UsersAPI\UsersApi\UsersApi\obj\Debug\netcoreapp2.0\UsersApi.csproj.CoreCompileInputs.cache
+C:\Users\wsurpador\Documents\Repos\UsersAPI\UsersApi\UsersApi\obj\Debug\netcoreapp2.0\UsersApi.AssemblyInfoInputs.cache
+C:\Users\wsurpador\Documents\Repos\UsersAPI\UsersApi\UsersApi\obj\Debug\netcoreapp2.0\UsersApi.AssemblyInfo.cs
+C:\Users\wsurpador\Documents\Repos\UsersAPI\UsersApi\UsersApi\obj\Debug\netcoreapp2.0\UsersApi.dll
+C:\Users\wsurpador\Documents\Repos\UsersAPI\UsersApi\UsersApi\obj\Debug\netcoreapp2.0\UsersApi.pdb

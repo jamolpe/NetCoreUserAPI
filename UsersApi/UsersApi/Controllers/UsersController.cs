@@ -26,11 +26,12 @@ namespace UsersApi.Controllers
         private readonly IUserService _userService;
         private readonly Settings _settings;
         public UsersController(
+            IUserService userService,    
             DataContext dataContext,
             IOptions<Settings> appSettings
             )
         {
-            _userService = new UserService(dataContext);
+            _userService = userService;
             Mapper.Initialize(cfg => cfg.AddProfile(new AutoMapperUser()));
             _settings = appSettings.Value;
         }
